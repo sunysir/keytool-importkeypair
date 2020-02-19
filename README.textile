@@ -25,6 +25,7 @@ Adding "Android":http://developer.android.com platform level certificates to the
 
 <pre>
 keytool-importkeypair -k ~/.android/debug.keystore -p android -pk8 platform.pk8 -cert platform.x509.pem -alias platform
+https://blog.csdn.net/VSRfind/article/details/79648281
 </pre>
 
 h2. Feedback
